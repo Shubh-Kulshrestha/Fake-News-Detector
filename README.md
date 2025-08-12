@@ -1,7 +1,5 @@
 # **📰 Fake News Detection**
 
-🔗 **Live Demo:** [Fake News Detection App](https://fake-news-detection-zeeshier.streamlit.app/)
-
 ## **📌 Description**  
 This project focuses on detecting **fake news articles** using **machine learning models**. The goal is to analyze news data, train multiple classification models, and determine the most accurate one for distinguishing between real and fake news.
 
