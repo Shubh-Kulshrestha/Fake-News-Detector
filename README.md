@@ -59,8 +59,8 @@ jupyter notebook fake-news-detection.ipynb
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/zeeshier/fake-news-detection
-cd fake-news-detection
+(https://github.com/Shubh-Kulshrestha/Fake-News-Detector)
+cd fake-news-dete
 
 ```  
 
